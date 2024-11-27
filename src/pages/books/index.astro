@@ -2,8 +2,8 @@
 import { getCollection } from "astro:content";
 import PageLayout from "@layouts/PageLayout.astro";
 import Container from "@components/Container.astro";
-import ArrowCard from "@components/ArrowCard.astro";
 import { BOOKS } from "@consts";
+import Book from "@components/Book.astro";
 
 const books = (await getCollection("books"))
   .filter(book => !book.data.draft)
@@ -20,7 +20,7 @@ const books = (await getCollection("books"))
         {
           books.map((book) => (
             <li>
-              <ArrowCard entry={book}/>
+              <Book entry={book}/>
             </li>
           ))
         }

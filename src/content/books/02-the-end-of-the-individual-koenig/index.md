@@ -1,7 +1,7 @@
 ---
-title: "The passionate programmer"
-description: "A book about aspects of software engineering other than coding itself."
-author: "Chad Fowler"
-coverURL: "url"
-date: "Sep 21 2024"
+title: "The end of the individual"
+description: "A book about challenges of AI usage that lie before us."
+author: "Gaspard Koenig"
+isbn: "979-1032907207"
+date: "Sep 7 2023"
 ---

@@ -39,8 +39,8 @@ const books = defineCollection({
     description: z.string(),
     author: z.string(),
     date: z.coerce.date(),
-    coverURL: z.string(),
     draft: z.boolean().optional(),
+    isbn: z.string(),
   }),
 });
 
