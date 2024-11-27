@@ -1,9 +1,8 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+title: "Traceability Tutor"
+description: "An educational application for teaching basic principles of software traceability."
+date: "Aug 21 2024"
+repoURL: "https://github.com/havr-p/traceability-tutor"
 ---
 
 ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)

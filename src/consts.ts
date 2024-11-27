@@ -38,3 +38,8 @@ export const SOCIALS: Socials = [
     HREF: "https://www.linkedin.com/in/havriil-pietukhin",
   }
 ];
+
+export const BOOKS: Metadata = {
+  TITLE: "Books",
+  DESCRIPTION: "A collection of books I read and appreciated.",
+};

@@ -43,6 +43,10 @@ article {
   @apply prose-headings:text-black prose-headings:dark:text-white;
 }
 
+book {
+  @apply backdrop-blur-sm saturate-200;
+}
+
 @layer utilities {
   article a {
     @apply font-sans text-current underline underline-offset-2;
