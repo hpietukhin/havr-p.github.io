@@ -5,13 +5,15 @@ dateStart: "03/01/2022"
 dateEnd: "Current"
 ---
 
-As a software developer in a small team, I worked closely with colleagues on several impactful projects, utilizing a diverse range of technologies:
+**Role**: Software Developer
+As a software developer in a small team, I worked closely with colleagues on several impactful projects.
 
-- **Multiplatform application for golf players**  
-  Tech stack: Spring Boot, Angular, Android Views, SwiftUI.
+Projects:
+- Developed cross-platform smartwatch app for golf players
+  Stack: Spring Boot, Angular, Android Views, SwiftUI
 
-- **Large-scale enterprise application**  
-  Tech stack: Spring Boot, Dojo.
+- Participated in development of enterprise document management system
+  Stack: Spring Boot, Dojo Toolkit
 
-- **Migration of critical business application**  
-  Tech stack: .NET, Angular, WPF
+- Participated in migration of business-critical industrial application
+  Stack: .NET, Angular, WPF
