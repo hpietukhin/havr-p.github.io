@@ -1,15 +1,14 @@
 ---
 company: "Consultis k.s."
-role: "Full-stack Engineer"
+role: "Full-stack Developer"
 dateStart: "03/01/2022"
 dateEnd: "Current"
 ---
 
-**Role**: Software Developer  
-As a software developer in a small team, I worked closely with colleagues on several impactful projects.  
+As a fullstack software developer in a small team, I worked closely with colleagues on several impactful projects on backend and frontend sides.  
 
 Projects:
-- Developed cross-platform smartwatch app for golf players  
+- Took part in the development of cross-platform smartwatch app for golf players  
   Stack: Spring Boot, Angular, Android Views, SwiftUI
 
 - Participated in development of enterprise document management system  
