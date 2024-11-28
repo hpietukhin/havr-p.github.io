@@ -5,8 +5,8 @@ dateStart: "04/01/2022"
 dateEnd: "12/01/2022"
 ---
 
-**Role**: Backend Developer
-Developed and maintained internal banking applications using Java EE stack.
+**Role**: Backend Developer  
+Developed and maintained internal banking applications using JavaEE stack.
 
 **Responsibilities**  
 - Implemented backend features based on customer requirements

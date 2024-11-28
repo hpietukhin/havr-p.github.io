@@ -5,8 +5,8 @@ dateStart: "03/01/2022"
 dateEnd: "Current"
 ---
 
-**Role**: Software Developer
-As a software developer in a small team, I worked closely with colleagues on several impactful projects.
+**Role**: Software Developer  
+As a software developer in a small team, I worked closely with colleagues on several impactful projects.  
 
 Projects:
 - Developed cross-platform smartwatch app for golf players  
