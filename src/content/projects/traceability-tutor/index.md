@@ -19,15 +19,7 @@ A visualization tool that helps students and educators understand software devel
 - RESTful API with Swagger documentation
 
 ### Tech Stack
+- Spring Boot
+- Docker
 - Angular
 - TypeScript
-- Spring Boot
-- Java
-- Docker
-- Maven
-- Git
-- Swagger/OpenAPI
-
-### License
-
-GPL
