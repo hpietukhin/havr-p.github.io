@@ -28,6 +28,6 @@ A visualization tool that helps students and educators understand software devel
 - Git
 - Swagger/OpenAPI
 
-## 🏛️ License
+### License
 
 GPL
