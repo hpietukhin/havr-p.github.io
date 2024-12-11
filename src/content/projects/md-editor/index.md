@@ -8,7 +8,6 @@ repoURL: "https://github.com/havr-p/md-micro"
 
 
 ## Markdown editor
-Note: Code will be released soon
 
 ### Overview
 A comprehensive Markdown editor built from scratch using microservices architecture, demonstrating modern full-stack development practices with a focus on cloud deployment and security. The project showcases the integration of Spring Boot backend services with Angular frontend, deployed on Google Kubernetes Engine (GKE) with automated CI/CD pipelines.
@@ -22,10 +21,12 @@ A comprehensive Markdown editor built from scratch using microservices architect
 - Google Kubernetes Engine cloud deployment
 - API testing with Postman
 
-**### Tech Stack**
+### Tech Stack
 - Java
 - Spring Boot
 - Angular
 - Docker
 - GitLab CI/CD
-- Kubernetes
+- Kubernetes 
+
+<em> Note: Code will be released soon </em>
