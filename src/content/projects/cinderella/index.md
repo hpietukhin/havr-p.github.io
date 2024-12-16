@@ -2,7 +2,7 @@
 title: "Cinderella"
 description: "An application for gaining insights about software architecture."
 date: "Oct 16 2024"
-repoURL: "https://github.com/havr-p/cinderella"
+repoURL: "https://github.com/ainthek/cinderella"
 ---
 
 
