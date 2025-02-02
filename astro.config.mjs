@@ -4,6 +4,6 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://havr-p.github.io",
+  site: "https://hpietukhin.github.io",
   integrations: [mdx(), sitemap(), tailwind()],
 });
