@@ -2,7 +2,7 @@
 title: "Markdown editor"
 description: "Online markdown editor"
 date: "Dec 7 2024"
-repoURL: "https://github.com/havr-p/md-micro"
+repoURL: "https://github.com/hpietukhin/md-micro"
 ---
 
 

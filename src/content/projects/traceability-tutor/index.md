@@ -2,7 +2,7 @@
 title: "Traceability Tutor"
 description: "An educational application for teaching basic principles of software traceability."
 date: "Aug 21 2024"
-repoURL: "https://github.com/havr-p/traceability-tutor"
+repoURL: "https://github.com/hpietukhin/traceability-tutor"
 ---
 
 ![Traceability Tutor](/tt-editor.png)
